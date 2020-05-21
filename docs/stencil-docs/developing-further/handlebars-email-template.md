@@ -1,0 +1,3 @@
+# Handlebars Email Templates
+
+The beginning of an awesome article...
